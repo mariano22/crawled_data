@@ -45,7 +45,7 @@ Also, `./cleaned_data.log` will contain the log of cleaned text in diff format.
 - `calc_stats.py`: here are the metrics calculated. Adding more metrics for exploration is straightforward by providing a map and reduce functions.
 - `rules.py`: contains the rule structure definition (see `main_clean.py` to check an example of usage), And way of monitoring the rules impact.
 
-## Rules are extensible and learneable
+## Rules are extensible and trainable
 
 You can create your own rules by implementing:
 
